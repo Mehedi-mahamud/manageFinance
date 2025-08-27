@@ -1,6 +1,9 @@
 #include <iostream>
 using namespace std;
+//pending 
+
+
 int main() {
-    cout << "Hello, manageFinance!\nTeam Leader mehedi" << endl;
+    cout << "Hello, manageFinance!" << endl;
     return 0;
 }
